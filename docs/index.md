@@ -14,7 +14,7 @@ We are BTX Research, a dedicated research firm in the blockchain technology and 
 
 ## Latest Research Reports
 
-- [Arbitrum and the Dawn of a New Era: Navigating Ethereum's Cancun Upgrade and the Future of $ARB](Research/Layer2/arbitrum_cancum.md)
+- [Arbitrum and the Dawn of a New Era: Navigating Ethereum's Cancun Upgrade and the Future of $ARB](Research/Layer2/arbitrum_cancun.md)
 
 ## Contact Us
 
