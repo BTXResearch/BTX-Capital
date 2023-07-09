@@ -4,7 +4,6 @@ theme:
   features:
     - navigation.tabs
 nav:
-    # - Home: index.md
     - Research:
         - Layer2 :
           - Arbitrum and the Dawn of a New Era: Research/Layer2/arbitrum_cancum.md
